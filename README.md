@@ -1,4 +1,4 @@
 <<<<<<< HEAD
 # Git-demo
 This line from remote
-This line form local
+"\nThis line form local"
